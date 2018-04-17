@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, VideoSurvilianceAct!</string>
+    <string name="app_name">Surviliance</string>
+    <string name="ipaddress">http://192.168.1.4:8080/LoginRegistration/images/</string>
+    <string name="loginip">http://192.168.1.4:8080/LoginRegistration/Login</string>
+    <string name="registrationno">703793047540</string>
+ 
+
+</resources>
